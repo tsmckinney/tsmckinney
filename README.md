@@ -2,6 +2,7 @@
 - 👀 I’m interested in game development and stuff like that.
 - 🌱 I’m currently trying to teach myself computer coding. (Hopefully it goes well)
 - 💻 Right now I'm working on a metafictional puzzle platformer called Muo.
+- 💭 I've got autism, so my head works a little differently. And I'm totally fine with that.😌
 - 📫 How to reach me: Send me an email via Gmail.
 
 <!---
