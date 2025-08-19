@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">my name's Scarecrow, and I'm a game/software developer and artist.<br><br>- 🔭 I'd like to pursue a field in video game programming.<br>- 📚 I'm mostly self-taught and am currently working on learning 3D and Unreal Engine... very slowly.<br>- ⚡ in my free time I often find myself tinkering with stuff that I find interesting and/or that I haven't already tinkered with before.</p>
+<p align="left">my name's Tobin, and I'm a game/software developer and artist. I often publish my work under the pseudonym Scarecrow, but also sometimes under my actual name. <br><br>- 🔭 I'd like to pursue a field in software engineering, specifically in the field of video games.<br>- 📚 I'm mostly self-taught and am currently working on learning 3D and Unreal Engine... very slowly.<br>- ⚡ in my free time I often find myself tinkering with stuff that I find interesting and/or that I haven't already tinkered with before.</p>
 
 ###
 
